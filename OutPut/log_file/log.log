@@ -1,0 +1,1043 @@
+2019-11-15 21:01:55,681-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:01:55,681-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:01:55,682-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:02:05,818-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:02:05,849-INFO-base_page.py-base_page-找到元素
+2019-11-15 21:02:05,918-INFO-base_page.py-base_page-点击成功
+2019-11-15 21:02:05,918-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:02:05,919-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:02:05,919-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:02:07,263-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:02:07,280-INFO-base_page.py-base_page-找到元素
+2019-11-15 21:02:07,299-INFO-base_page.py-base_page-点击成功
+2019-11-15 21:02:07,299-INFO-base_page.py-base_page-在发送邮件界面_发送按钮查找('id', 'com.netease.mail:id/send')元素
+2019-11-15 21:02:07,299-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:07:52,730-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:07:52,731-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:07:52,731-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:07:59,470-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:07:59,589-INFO-base_page.py-base_page-找到元素
+2019-11-15 21:07:59,671-INFO-base_page.py-base_page-点击成功
+2019-11-15 21:07:59,672-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:07:59,672-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:07:59,672-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:08:00,893-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:08:00,914-INFO-base_page.py-base_page-找到元素
+2019-11-15 21:08:00,931-INFO-base_page.py-base_page-点击成功
+2019-11-15 21:08:00,931-INFO-base_page.py-base_page-在发送邮件界面_发送按钮查找('id', 'com.netease.mail:id/send')元素
+2019-11-15 21:08:03,518-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:15:41,424-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:15:41,424-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:15:41,424-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:15:50,160-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:15:50,186-INFO-base_page.py-base_page-找到元素
+2019-11-15 21:15:50,236-INFO-base_page.py-base_page-点击成功
+2019-11-15 21:15:50,236-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:15:50,236-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:15:50,237-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:15:51,571-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:15:51,585-INFO-base_page.py-base_page-找到元素
+2019-11-15 21:15:51,614-INFO-base_page.py-base_page-点击成功
+2019-11-15 21:15:51,614-INFO-base_page.py-base_page-在发送邮件界面_发送按钮查找('id', 'com.netease.mail:id/send')元素
+2019-11-15 21:15:53,512-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:17:54,833-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:17:54,833-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:17:54,833-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 21:18:05,477-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:18:05,509-INFO-base_page.py-base_page-找到元素
+2019-11-15 21:18:06,436-INFO-base_page.py-base_page-点击成功
+2019-11-15 21:18:06,437-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:18:06,437-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:18:06,437-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 21:18:06,497-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 21:18:06,523-INFO-base_page.py-base_page-找到元素
+2019-11-15 21:18:06,555-INFO-base_page.py-base_page-点击成功
+2019-11-15 21:18:06,555-INFO-base_page.py-base_page-在发送邮件界面_发送按钮查找('id', 'com.netease.mail:id/send')元素
+2019-11-15 21:18:08,940-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 22:57:54,971-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 22:57:54,972-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 22:57:54,972-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 22:58:00,369-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 22:58:00,436-INFO-base_page.py-base_page-找到元素
+2019-11-15 22:58:00,518-INFO-base_page.py-base_page-点击成功
+2019-11-15 22:58:00,518-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 22:58:00,518-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 22:58:00,519-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 22:58:01,902-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 22:58:01,923-INFO-base_page.py-base_page-找到元素
+2019-11-15 22:58:01,946-INFO-base_page.py-base_page-点击成功
+2019-11-15 22:58:01,946-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+2019-11-15 22:58:01,947-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框查找('id', 'com.netease.mail:id/mailcompose_address_input')元素
+2019-11-15 22:58:01,947-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框查找('id', 'com.netease.mail:id/mailcompose_address_input')元素
+2019-11-15 22:58:04,419-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 22:58:04,464-INFO-base_page.py-base_page-找到元素
+2019-11-15 22:58:04,538-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 22:58:04,539-INFO-base_page.py-base_page-在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email
+2019-11-15 22:58:04,539-INFO-base_page.py-base_page-在发送邮件界面_主题输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 22:58:04,539-INFO-base_page.py-base_page-在发送邮件界面_主题输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 22:58:05,561-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 22:58:05,597-INFO-base_page.py-base_page-找到元素
+2019-11-15 22:58:06,182-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 22:58:06,182-INFO-base_page.py-base_page-在发送邮件界面_正文输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_body
+2019-11-15 22:58:06,182-INFO-base_page.py-base_page-在发送邮件界面_正文输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 22:58:06,183-INFO-base_page.py-base_page-在发送邮件界面_正文输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 22:58:06,699-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 22:58:06,722-INFO-base_page.py-base_page-找到元素
+2019-11-15 22:58:07,248-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 22:58:07,248-INFO-base_page.py-base_page-在发送邮件界面_发送按钮查找('id', 'com.netease.mail:id/send')元素
+2019-11-15 22:58:07,760-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:00:08,790-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 23:00:08,790-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 23:00:08,791-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 23:00:18,133-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:00:18,179-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:00:18,264-INFO-base_page.py-base_page-点击成功
+2019-11-15 23:00:18,265-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 23:00:18,265-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 23:00:18,265-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 23:00:19,669-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:00:19,689-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:00:19,707-INFO-base_page.py-base_page-点击成功
+2019-11-15 23:00:19,707-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+2019-11-15 23:00:19,707-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框查找('id', 'com.netease.mail:id/mailcompose_address_input')元素
+2019-11-15 23:00:19,708-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框查找('id', 'com.netease.mail:id/mailcompose_address_input')元素
+2019-11-15 23:00:22,481-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:00:22,549-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:00:22,610-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 23:00:22,611-INFO-base_page.py-base_page-在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email
+2019-11-15 23:00:22,611-INFO-base_page.py-base_page-在发送邮件界面_主题输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 23:00:22,611-INFO-base_page.py-base_page-在发送邮件界面_主题输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 23:00:23,566-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:00:23,588-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:00:24,180-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 23:00:24,181-INFO-base_page.py-base_page-在发送邮件界面_正文输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_body
+2019-11-15 23:00:24,181-INFO-base_page.py-base_page-在发送邮件界面_正文输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 23:00:24,181-INFO-base_page.py-base_page-在发送邮件界面_正文输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 23:00:24,698-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:00:24,718-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:00:25,242-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 23:00:25,242-INFO-base_page.py-base_page-在首页_More按钮查找('id', 'com.netease.mail:id/iv_mail_list_folder')元素
+2019-11-15 23:00:55,606-ERROR-base_page.py-base_page-查找元素失败
+2019-11-15 23:01:45,332-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 23:01:45,332-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 23:01:45,333-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 23:01:53,360-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:01:53,383-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:01:53,436-INFO-base_page.py-base_page-点击成功
+2019-11-15 23:01:53,436-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 23:01:53,437-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 23:01:53,437-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 23:01:54,948-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:01:54,963-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:01:54,983-INFO-base_page.py-base_page-点击成功
+2019-11-15 23:01:54,983-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+2019-11-15 23:01:54,983-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框查找('id', 'com.netease.mail:id/mailcompose_address_input')元素
+2019-11-15 23:01:54,983-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框查找('id', 'com.netease.mail:id/mailcompose_address_input')元素
+2019-11-15 23:01:57,525-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:01:57,564-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:01:57,604-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 23:01:57,604-INFO-base_page.py-base_page-在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email
+2019-11-15 23:01:57,604-INFO-base_page.py-base_page-在发送邮件界面_主题输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 23:01:57,604-INFO-base_page.py-base_page-在发送邮件界面_主题输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 23:01:58,567-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:01:58,588-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:01:59,166-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 23:01:59,166-INFO-base_page.py-base_page-在发送邮件界面_正文输入框的('xpath', '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素处输入test_send_body
+2019-11-15 23:01:59,166-INFO-base_page.py-base_page-在发送邮件界面_正文输入框查找('xpath', '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素
+2019-11-15 23:01:59,167-INFO-base_page.py-base_page-在发送邮件界面_正文输入框查找('xpath', '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素
+2019-11-15 23:01:59,677-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:01:59,750-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:02:00,391-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 23:02:00,391-INFO-base_page.py-base_page-在发送邮件按钮_发送按钮点击('id', 'com.netease.mail:id/send')元素
+2019-11-15 23:02:00,391-INFO-base_page.py-base_page-在发送邮件按钮_发送按钮查找('id', 'com.netease.mail:id/send')元素
+2019-11-15 23:02:00,392-INFO-base_page.py-base_page-在发送邮件按钮_发送按钮查找('id', 'com.netease.mail:id/send')元素
+2019-11-15 23:02:01,009-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:02:01,028-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:02:01,110-INFO-base_page.py-base_page-点击成功
+2019-11-15 23:02:01,111-INFO-base_page.py-base_page-在首页_More按钮查找('id', 'com.netease.mail:id/iv_mail_list_folder')元素
+2019-11-15 23:02:06,490-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:07:57,179-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 23:07:57,179-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 23:07:57,179-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-15 23:08:08,704-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:08:08,730-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:08:08,784-INFO-base_page.py-base_page-点击成功
+2019-11-15 23:08:08,785-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 23:08:08,785-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 23:08:08,785-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-15 23:08:10,172-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:08:10,188-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:08:10,204-INFO-base_page.py-base_page-点击成功
+2019-11-15 23:08:10,204-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+2019-11-15 23:08:10,204-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框查找('id', 'com.netease.mail:id/mailcompose_address_input')元素
+2019-11-15 23:08:10,204-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框查找('id', 'com.netease.mail:id/mailcompose_address_input')元素
+2019-11-15 23:08:12,644-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:08:12,676-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:08:12,733-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 23:08:12,733-INFO-base_page.py-base_page-在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email
+2019-11-15 23:08:12,733-INFO-base_page.py-base_page-在发送邮件界面_主题输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 23:08:12,733-INFO-base_page.py-base_page-在发送邮件界面_主题输入框查找('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素
+2019-11-15 23:08:13,716-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:08:13,739-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:08:14,338-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 23:08:14,338-INFO-base_page.py-base_page-在发送邮件界面_正文输入框的('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素处输入test_send_body
+2019-11-15 23:08:14,338-INFO-base_page.py-base_page-在发送邮件界面_正文输入框查找('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素
+2019-11-15 23:08:14,338-INFO-base_page.py-base_page-在发送邮件界面_正文输入框查找('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素
+2019-11-15 23:08:14,854-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:08:14,918-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:08:15,559-INFO-base_page.py-base_page-成功输入文本值
+2019-11-15 23:08:15,559-INFO-base_page.py-base_page-在发送邮件按钮_发送按钮点击('id', 'com.netease.mail:id/send')元素
+2019-11-15 23:08:15,559-INFO-base_page.py-base_page-在发送邮件按钮_发送按钮查找('id', 'com.netease.mail:id/send')元素
+2019-11-15 23:08:15,559-INFO-base_page.py-base_page-在发送邮件按钮_发送按钮查找('id', 'com.netease.mail:id/send')元素
+2019-11-15 23:08:16,212-INFO-base_page.py-base_page-查找元素成功
+2019-11-15 23:08:16,279-INFO-base_page.py-base_page-找到元素
+2019-11-15 23:08:16,388-INFO-base_page.py-base_page-点击成功
+2019-11-15 23:08:16,388-INFO-base_page.py-base_page-在首页_More按钮查找('id', 'com.netease.mail:id/iv_mail_list_folder')元素
+2019-11-15 23:08:21,691-INFO-base_page.py-base_page-查找元素成功
+2019-11-20 22:47:02,283-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 22:47:02,298-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 22:47:02,298-INFO-base_page.py-base_page-在首页_点击加号按钮等待元素('id', 'com.netease.mail:id/iv_mail_list_plus')可见
+2019-11-20 22:47:13,697-INFO-base_page.py-base_page-查找元素成功
+2019-11-20 22:47:13,793-INFO-base_page.py-base_page-找到元素
+2019-11-20 22:47:13,888-INFO-base_page.py-base_page-点击成功
+2019-11-20 22:47:13,888-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 22:47:13,888-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 22:47:13,888-INFO-base_page.py-base_page-在首页_写邮件按钮等待元素('id', 'com.netease.mail:id/tv_write_mail')可见
+2019-11-20 22:47:15,245-INFO-base_page.py-base_page-查找元素成功
+2019-11-20 22:47:15,267-INFO-base_page.py-base_page-找到元素
+2019-11-20 22:47:15,284-INFO-base_page.py-base_page-点击成功
+2019-11-20 22:50:09,688-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 22:50:09,689-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 22:50:09,689-INFO-base_page.py-base_page-在首页_点击加号按钮等待元素('id', 'com.netease.mail:id/iv_mail_list_plus')可见
+2019-11-20 22:50:17,827-INFO-base_page.py-base_page-查找元素成功
+2019-11-20 22:50:19,507-INFO-base_page.py-base_page-找到元素
+2019-11-20 22:50:19,650-INFO-base_page.py-base_page-点击成功
+2019-11-20 22:50:19,650-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 22:50:19,651-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 22:50:19,651-INFO-base_page.py-base_page-在首页_写邮件按钮等待元素('id', 'com.netease.mail:id/tv_write_mail')可见
+2019-11-20 22:50:21,116-INFO-base_page.py-base_page-查找元素成功
+2019-11-20 22:50:21,133-INFO-base_page.py-base_page-找到元素
+2019-11-20 22:50:21,152-INFO-base_page.py-base_page-点击成功
+2019-11-20 23:06:38,087-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 23:06:38,087-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 23:06:38,087-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素值'('id', 'com.netease.mail:id/iv_mail_list_plus')'可见
+2019-11-20 23:06:45,493-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素出现成功，等待时间为7.404296875s
+2019-11-20 23:06:46,914-INFO-base_page.py-base_page-找到元素
+2019-11-20 23:06:46,986-INFO-base_page.py-base_page-点击'首页_点击加号按钮'元素成功
+2019-11-20 23:06:46,986-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 23:06:46,987-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 23:06:46,987-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素值'('id', 'com.netease.mail:id/tv_write_mail')'可见
+2019-11-20 23:06:48,354-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素出现成功，等待时间为1.3671875s
+2019-11-20 23:06:48,369-INFO-base_page.py-base_page-找到元素
+2019-11-20 23:06:48,388-INFO-base_page.py-base_page-点击'首页_写邮件按钮'元素成功
+2019-11-20 23:08:12,398-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 23:08:12,398-INFO-base_page.py-base_page-在首页_点击加号按钮查找('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 23:08:12,399-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素值'('id', 'com.netease.mail:id/iv_mail_list_plus')'可见
+2019-11-20 23:08:20,242-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素出现成功，等待时间为7.8427734375s
+2019-11-20 23:08:20,280-INFO-base_page.py-base_page-找到元素
+2019-11-20 23:08:20,510-INFO-base_page.py-base_page-点击'首页_点击加号按钮'元素成功
+2019-11-20 23:08:20,511-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 23:08:20,511-INFO-base_page.py-base_page-在首页_写邮件按钮查找('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 23:08:20,511-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素值'('id', 'com.netease.mail:id/tv_write_mail')'可见
+2019-11-20 23:08:21,325-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素出现成功，等待时间为0.8134765625s
+2019-11-20 23:08:21,378-INFO-base_page.py-base_page-找到元素
+2019-11-20 23:08:21,413-INFO-base_page.py-base_page-点击'首页_写邮件按钮'元素成功
+2019-11-20 23:13:12,579-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 23:13:12,580-INFO-base_page.py-base_page-查找'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'
+2019-11-20 23:13:12,580-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'可见
+2019-11-20 23:13:20,443-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素出现成功，等待时间为7.863281011581421s
+2019-11-20 23:13:22,316-INFO-base_page.py-base_page-找到'首页_点击加号按钮'元素
+2019-11-20 23:13:22,444-INFO-base_page.py-base_page-点击'首页_点击加号按钮'元素成功
+2019-11-20 23:13:22,444-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 23:13:22,445-INFO-base_page.py-base_page-查找'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'
+2019-11-20 23:13:22,445-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'可见
+2019-11-20 23:13:23,808-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素出现成功，等待时间为1.36328125s
+2019-11-20 23:13:23,823-INFO-base_page.py-base_page-找到'首页_写邮件按钮'元素
+2019-11-20 23:13:23,840-INFO-base_page.py-base_page-点击'首页_写邮件按钮'元素成功
+2019-11-20 23:23:05,500-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 23:23:05,500-INFO-base_page.py-base_page-查找'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'
+2019-11-20 23:23:05,501-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'可见
+2019-11-20 23:23:14,590-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素出现成功，等待时间为9.0888671875s
+2019-11-20 23:23:14,633-INFO-base_page.py-base_page-找到'首页_点击加号按钮'元素
+2019-11-20 23:23:14,718-INFO-base_page.py-base_page-点击'首页_点击加号按钮'元素成功
+2019-11-20 23:23:14,719-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 23:23:14,719-INFO-base_page.py-base_page-查找'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'
+2019-11-20 23:23:14,719-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'可见
+2019-11-20 23:23:16,097-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素出现成功，等待时间为1.376953363418579s
+2019-11-20 23:23:16,114-INFO-base_page.py-base_page-找到'首页_写邮件按钮'元素
+2019-11-20 23:23:16,135-INFO-base_page.py-base_page-点击'首页_写邮件按钮'元素成功
+2019-11-20 23:23:19,137-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+2019-11-20 23:23:19,137-INFO-base_page.py-base_page-查找'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'
+2019-11-20 23:23:19,137-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'可见
+2019-11-20 23:23:19,761-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素出现成功，等待时间为0.6240234375s
+2019-11-20 23:23:19,787-INFO-base_page.py-base_page-找到'发送邮件界面_接收人输入框'元素
+2019-11-20 23:23:19,858-INFO-base_page.py-base_page-成功输入文本值
+2019-11-20 23:23:19,859-INFO-base_page.py-base_page-在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email451098
+2019-11-20 23:23:19,859-INFO-base_page.py-base_page-查找'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'
+2019-11-20 23:23:19,859-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'可见
+2019-11-20 23:23:20,818-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素出现成功，等待时间为0.958984375s
+2019-11-20 23:23:20,844-INFO-base_page.py-base_page-找到'发送邮件界面_主题输入框'元素
+2019-11-20 23:23:21,438-INFO-base_page.py-base_page-成功输入文本值
+2019-11-20 23:23:21,439-INFO-base_page.py-base_page-在发送邮件界面_正文输入框的('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素处输入test_send_body451098
+2019-11-20 23:23:21,439-INFO-base_page.py-base_page-查找'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'
+2019-11-20 23:23:21,439-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'可见
+2019-11-20 23:23:21,958-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素出现成功，等待时间为0.5185546875s
+2019-11-20 23:23:22,035-INFO-base_page.py-base_page-找到'发送邮件界面_正文输入框'元素
+2019-11-20 23:23:22,672-INFO-base_page.py-base_page-成功输入文本值
+2019-11-20 23:23:22,672-INFO-base_page.py-base_page-在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/add_attachment_icon')元素
+2019-11-20 23:23:22,673-INFO-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/add_attachment_icon')'
+2019-11-20 23:23:22,673-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/add_attachment_icon')'可见
+2019-11-20 23:23:23,305-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素出现成功，等待时间为0.6318359375s
+2019-11-20 23:23:23,327-INFO-base_page.py-base_page-找到'发送邮件邮件_上传附件按钮'元素
+2019-11-20 23:23:23,361-INFO-base_page.py-base_page-点击'发送邮件邮件_上传附件按钮'元素成功
+2019-11-20 23:23:23,361-INFO-base_page.py-base_page-在发送邮件界面_上传附件弹窗_选择的第一个文件点击('id', 'com.netease.mail:id/image_gallery_item_image')元素
+2019-11-20 23:23:23,361-INFO-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'
+2019-11-20 23:23:23,362-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'可见
+2019-11-20 23:23:53,614-ERROR-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_选择的第一个文件'元素出现失败
+2019-11-20 23:23:53,614-ERROR-base_page.py-base_page-点击'发送邮件界面_上传附件弹窗_选择的第一个文件'元素失败
+2019-11-20 23:42:08,534-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 23:42:08,534-INFO-base_page.py-base_page-查找'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'
+2019-11-20 23:42:08,535-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'可见
+2019-11-20 23:42:16,825-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素出现成功，等待时间为8.2900390625s
+2019-11-20 23:42:16,887-INFO-base_page.py-base_page-找到'首页_点击加号按钮'元素
+2019-11-20 23:42:16,977-INFO-base_page.py-base_page-点击'首页_点击加号按钮'元素成功
+2019-11-20 23:42:16,978-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 23:42:16,978-INFO-base_page.py-base_page-查找'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'
+2019-11-20 23:42:16,978-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'可见
+2019-11-20 23:42:18,408-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素出现成功，等待时间为1.4296875s
+2019-11-20 23:42:18,422-INFO-base_page.py-base_page-找到'首页_写邮件按钮'元素
+2019-11-20 23:42:18,437-INFO-base_page.py-base_page-点击'首页_写邮件按钮'元素成功
+2019-11-20 23:42:21,439-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+2019-11-20 23:42:21,439-INFO-base_page.py-base_page-查找'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'
+2019-11-20 23:42:21,439-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'可见
+2019-11-20 23:42:22,082-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素出现成功，等待时间为0.6425778865814209s
+2019-11-20 23:42:22,114-INFO-base_page.py-base_page-找到'发送邮件界面_接收人输入框'元素
+2019-11-20 23:42:22,164-INFO-base_page.py-base_page-成功输入文本值
+2019-11-20 23:42:22,164-INFO-base_page.py-base_page-在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email961284
+2019-11-20 23:42:22,165-INFO-base_page.py-base_page-查找'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'
+2019-11-20 23:42:22,165-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'可见
+2019-11-20 23:42:23,073-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素出现成功，等待时间为0.908203125s
+2019-11-20 23:42:23,095-INFO-base_page.py-base_page-找到'发送邮件界面_主题输入框'元素
+2019-11-20 23:42:23,666-INFO-base_page.py-base_page-成功输入文本值
+2019-11-20 23:42:23,666-INFO-base_page.py-base_page-在发送邮件界面_正文输入框的('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素处输入test_send_body961284
+2019-11-20 23:42:23,667-INFO-base_page.py-base_page-查找'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'
+2019-11-20 23:42:23,667-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'可见
+2019-11-20 23:42:24,185-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素出现成功，等待时间为0.5175778865814209s
+2019-11-20 23:42:24,310-INFO-base_page.py-base_page-找到'发送邮件界面_正文输入框'元素
+2019-11-20 23:42:24,954-INFO-base_page.py-base_page-成功输入文本值
+2019-11-20 23:42:24,954-INFO-base_page.py-base_page-在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')元素
+2019-11-20 23:42:24,955-INFO-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'
+2019-11-20 23:42:24,955-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'可见
+2019-11-20 23:42:25,584-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素出现成功，等待时间为0.6298828125s
+2019-11-20 23:42:25,605-INFO-base_page.py-base_page-找到'发送邮件邮件_上传附件按钮'元素
+2019-11-20 23:42:25,659-INFO-base_page.py-base_page-点击'发送邮件邮件_上传附件按钮'元素成功
+2019-11-20 23:42:25,659-INFO-base_page.py-base_page-在发送邮件界面_上传附件弹窗_选择的第一个文件点击('id', 'com.netease.mail:id/image_gallery_item_image')元素
+2019-11-20 23:42:25,660-INFO-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'
+2019-11-20 23:42:25,660-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'可见
+2019-11-20 23:42:55,787-ERROR-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_选择的第一个文件'元素出现失败
+2019-11-20 23:42:55,787-ERROR-base_page.py-base_page-点击'发送邮件界面_上传附件弹窗_选择的第一个文件'元素失败
+2019-11-20 23:46:24,095-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-11-20 23:46:24,096-INFO-base_page.py-base_page-查找'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'
+2019-11-20 23:46:24,096-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'可见
+2019-11-20 23:46:32,724-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素出现成功，等待时间为8.6279296875s
+2019-11-20 23:46:32,752-INFO-base_page.py-base_page-找到'首页_点击加号按钮'元素
+2019-11-20 23:46:32,816-INFO-base_page.py-base_page-点击'首页_点击加号按钮'元素成功
+2019-11-20 23:46:32,816-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-11-20 23:46:32,817-INFO-base_page.py-base_page-查找'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'
+2019-11-20 23:46:32,817-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'可见
+2019-11-20 23:46:34,165-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素出现成功，等待时间为1.34765625s
+2019-11-20 23:46:34,181-INFO-base_page.py-base_page-找到'首页_写邮件按钮'元素
+2019-11-20 23:46:34,201-INFO-base_page.py-base_page-点击'首页_写邮件按钮'元素成功
+2019-11-20 23:46:34,203-INFO-base_page.py-base_page-在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')元素
+2019-11-20 23:46:34,204-INFO-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'
+2019-11-20 23:46:34,204-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'可见
+2019-11-20 23:46:36,594-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素出现成功，等待时间为2.390625s
+2019-11-20 23:46:36,628-INFO-base_page.py-base_page-找到'发送邮件邮件_上传附件按钮'元素
+2019-11-20 23:46:36,666-INFO-base_page.py-base_page-点击'发送邮件邮件_上传附件按钮'元素成功
+2019-11-20 23:46:36,666-INFO-base_page.py-base_page-在发送邮件界面_上传附件弹窗_选择的第一个文件点击('id', 'com.netease.mail:id/image_gallery_item_image')元素
+2019-11-20 23:46:36,666-INFO-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'
+2019-11-20 23:46:36,666-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'可见
+2019-11-20 23:46:38,439-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素出现成功，等待时间为1.7724609375s
+2019-11-20 23:46:38,457-INFO-base_page.py-base_page-找到'发送邮件界面_上传附件弹窗_选择的第一个文件'元素
+2019-11-20 23:46:38,483-INFO-base_page.py-base_page-点击'发送邮件界面_上传附件弹窗_选择的第一个文件'元素成功
+2019-11-20 23:46:38,483-INFO-base_page.py-base_page-在发送邮件界面_上传附件弹窗_完成按钮点击('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')元素
+2019-11-20 23:46:38,483-INFO-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_完成按钮'元素值为'('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')'
+2019-11-20 23:46:38,483-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_完成按钮'元素值为'('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')'可见
+2019-11-20 23:46:39,120-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_完成按钮'元素出现成功，等待时间为0.6367185115814209s
+2019-11-20 23:46:39,137-INFO-base_page.py-base_page-找到'发送邮件界面_上传附件弹窗_完成按钮'元素
+2019-11-20 23:46:39,154-INFO-base_page.py-base_page-点击'发送邮件界面_上传附件弹窗_完成按钮'元素成功
+2019-11-20 23:46:39,154-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+2019-11-20 23:46:39,154-INFO-base_page.py-base_page-查找'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'
+2019-11-20 23:46:39,154-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'可见
+2019-11-20 23:46:40,083-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素出现成功，等待时间为0.927734375s
+2019-11-20 23:46:40,106-INFO-base_page.py-base_page-找到'发送邮件界面_接收人输入框'元素
+2019-11-20 23:46:40,218-INFO-base_page.py-base_page-成功输入文本值
+2019-11-20 23:46:40,218-INFO-base_page.py-base_page-在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email789104
+2019-11-20 23:46:40,218-INFO-base_page.py-base_page-查找'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'
+2019-11-20 23:46:40,218-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'可见
+2019-11-20 23:46:40,832-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素出现成功，等待时间为0.6123046875s
+2019-11-20 23:46:40,856-INFO-base_page.py-base_page-找到'发送邮件界面_主题输入框'元素
+2019-11-20 23:46:41,393-INFO-base_page.py-base_page-成功输入文本值
+2019-11-20 23:46:41,393-INFO-base_page.py-base_page-在发送邮件界面_正文输入框的('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素处输入test_send_body789104
+2019-11-20 23:46:41,393-INFO-base_page.py-base_page-查找'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'
+2019-11-20 23:46:41,393-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'可见
+2019-11-20 23:46:42,082-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素出现成功，等待时间为0.6874997615814209s
+2019-11-20 23:46:42,160-INFO-base_page.py-base_page-找到'发送邮件界面_正文输入框'元素
+2019-11-20 23:46:42,799-INFO-base_page.py-base_page-成功输入文本值
+2019-11-20 23:46:42,800-INFO-base_page.py-base_page-在发送邮件界面_发送按钮点击('id', 'com.netease.mail:id/send')元素
+2019-11-20 23:46:42,800-INFO-base_page.py-base_page-查找'发送邮件界面_发送按钮'元素值为'('id', 'com.netease.mail:id/send')'
+2019-11-20 23:46:42,800-INFO-base_page.py-base_page-等待'发送邮件界面_发送按钮'元素值为'('id', 'com.netease.mail:id/send')'可见
+2019-11-20 23:46:43,432-INFO-base_page.py-base_page-等待'发送邮件界面_发送按钮'元素出现成功，等待时间为0.6318359375s
+2019-11-20 23:46:43,452-INFO-base_page.py-base_page-找到'发送邮件界面_发送按钮'元素
+2019-11-20 23:46:43,479-INFO-base_page.py-base_page-点击'发送邮件界面_发送按钮'元素成功
+2019-11-20 23:46:43,479-INFO-base_page.py-base_page-等待'首页_More按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_folder')'出现在页面
+2019-11-20 23:46:49,964-INFO-base_page.py-base_page-等待首页_More按钮元素出现成功
+2019-12-01 10:56:53,915-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")元素
+2019-12-01 10:56:53,930-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")'
+2019-12-01 10:56:53,930-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")'可见
+2019-12-01 10:57:34,947-ERROR-base_page.py-base_page-查找'首页底部_好货按钮'元素出现失败
+2019-12-01 10:57:34,947-ERROR-base_page.py-base_page-点击'首页底部_好货按钮'元素失败
+2019-12-01 10:59:14,490-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")元素
+2019-12-01 10:59:14,491-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")'
+2019-12-01 10:59:14,491-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")'可见
+2019-12-01 10:59:44,514-ERROR-base_page.py-base_page-查找'首页底部_好货按钮'元素出现失败
+2019-12-01 10:59:44,514-ERROR-base_page.py-base_page-点击'首页底部_好货按钮'元素失败
+2019-12-01 11:03:53,565-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")元素
+2019-12-01 11:03:53,565-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")'
+2019-12-01 11:03:53,565-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")'可见
+2019-12-01 11:04:27,002-ERROR-base_page.py-base_page-查找'首页底部_好货按钮'元素出现失败
+2019-12-01 11:04:27,002-ERROR-base_page.py-base_page-点击'首页底部_好货按钮'元素失败
+2019-12-01 11:07:11,799-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")元素
+2019-12-01 11:07:11,800-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")'
+2019-12-01 11:07:11,800-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').textContains('好货')")'可见
+2019-12-01 11:07:41,852-ERROR-base_page.py-base_page-查找'首页底部_好货按钮'元素出现失败
+2019-12-01 11:07:41,852-ERROR-base_page.py-base_page-点击'首页底部_好货按钮'元素失败
+2019-12-01 11:17:35,457-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').text('好货')")元素
+2019-12-01 11:17:35,458-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').text('好货')")'
+2019-12-01 11:17:35,458-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').text('好货')")'可见
+2019-12-01 11:18:05,881-ERROR-base_page.py-base_page-查找'首页底部_好货按钮'元素出现失败
+2019-12-01 11:18:05,881-ERROR-base_page.py-base_page-点击'首页底部_好货按钮'元素失败
+2019-12-01 11:20:40,358-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', "new UiSelector().text('好货')")元素
+2019-12-01 11:20:40,358-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().text('好货')")'
+2019-12-01 11:20:40,359-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().text('好货')")'可见
+2019-12-01 11:21:10,802-ERROR-base_page.py-base_page-查找'首页底部_好货按钮'元素出现失败
+2019-12-01 11:21:10,802-ERROR-base_page.py-base_page-点击'首页底部_好货按钮'元素失败
+2019-12-01 11:35:31,725-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', "new UiSelector().text('好货')")元素
+2019-12-01 11:35:31,726-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().text('好货')")'
+2019-12-01 11:35:31,726-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().text('好货')")'可见
+2019-12-01 11:36:00,016-ERROR-base_page.py-base_page-查找'首页底部_好货按钮'元素出现失败
+2019-12-01 11:36:00,016-ERROR-base_page.py-base_page-点击'首页底部_好货按钮'元素失败
+2019-12-01 11:56:37,702-INFO-base_page.py-base_page-在首页底部_好货按钮点击('id', 'com.netease.mail:id/tab_ads')元素
+2019-12-01 11:56:37,703-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('id', 'com.netease.mail:id/tab_ads')'
+2019-12-01 11:56:37,703-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('id', 'com.netease.mail:id/tab_ads')'可见
+2019-12-01 11:56:46,671-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为8.96875s
+2019-12-01 11:56:46,728-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 11:56:46,800-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 12:26:03,650-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().text(好货)')元素
+2019-12-01 12:26:03,651-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().text(好货)')'
+2019-12-01 12:26:03,651-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().text(好货)')'可见
+2019-12-01 12:26:34,095-ERROR-base_page.py-base_page-查找'首页底部_好货按钮'元素出现失败
+2019-12-01 12:26:34,095-ERROR-base_page.py-base_page-点击'首页底部_好货按钮'元素失败
+2019-12-01 12:27:48,294-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').text('好货')")元素
+2019-12-01 12:27:48,295-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').text('好货')")'
+2019-12-01 12:27:48,295-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', "new UiSelector().resourceId('com.netease.mail:id/tab_item_text').text('好货')")'可见
+2019-12-01 12:28:18,431-ERROR-base_page.py-base_page-查找'首页底部_好货按钮'元素出现失败
+2019-12-01 12:28:18,431-ERROR-base_page.py-base_page-点击'首页底部_好货按钮'元素失败
+2019-12-01 12:33:11,397-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 12:33:11,397-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 12:33:11,398-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 12:33:20,563-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.1650390625s
+2019-12-01 12:33:20,615-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 12:33:22,719-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 12:35:05,044-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 12:35:05,044-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 12:35:05,045-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 12:35:14,430-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.384765625s
+2019-12-01 12:35:14,485-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 12:35:15,880-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 13:19:45,682-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 13:19:45,694-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 13:19:45,695-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 13:19:55,172-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.4775390625s
+2019-12-01 13:19:55,228-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 13:19:58,157-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 13:59:48,851-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 13:59:48,851-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 13:59:48,852-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 13:59:58,366-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.513671875s
+2019-12-01 13:59:58,417-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 13:59:59,783-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 14:09:37,696-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 14:09:37,696-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 14:09:37,696-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 14:09:46,585-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为8.888671636581421s
+2019-12-01 14:09:46,636-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 14:09:48,386-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 14:11:08,861-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 14:11:08,862-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 14:11:08,863-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 14:11:17,250-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为8.3876953125s
+2019-12-01 14:11:17,658-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 14:11:19,929-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 14:23:21,761-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 14:23:21,762-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 14:23:21,762-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 14:23:29,831-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为8.0693359375s
+2019-12-01 14:23:30,282-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 14:23:32,015-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 14:24:41,366-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 14:24:41,367-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 14:24:41,367-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 14:24:42,870-ERROR-base_page.py-base_page-查找'首页底部_好货按钮'元素出现失败
+2019-12-01 14:24:42,870-ERROR-base_page.py-base_page-点击'首页底部_好货按钮'元素失败
+2019-12-01 14:25:12,357-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 14:25:12,357-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 14:25:12,358-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 14:25:20,552-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为8.1943359375s
+2019-12-01 14:25:20,616-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 14:25:23,466-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 14:28:11,530-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 14:28:11,531-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 14:28:11,531-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 14:28:20,523-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为8.992187738418579s
+2019-12-01 14:28:20,571-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 14:28:22,846-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 15:02:12,288-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 15:02:12,288-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 15:02:12,288-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 15:02:22,201-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.912109375s
+2019-12-01 15:02:22,249-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 15:02:24,284-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 15:02:24,285-INFO-base_page.py-base_page-在好货界面_所有的webview页面获取到所有的context
+2019-12-01 15:02:24,285-ERROR-base_page.py-base_page-获取所有的context失败
+2019-12-01 15:09:36,150-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 15:09:36,150-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 15:09:36,151-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 15:09:45,892-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.7412109375s
+2019-12-01 15:09:45,948-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 15:09:48,423-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 15:09:48,423-INFO-base_page.py-base_page-在好货界面_所有的webview页面获取到所有的context
+2019-12-01 15:09:48,423-ERROR-base_page.py-base_page-获取所有的context失败
+2019-12-01 15:17:58,425-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 15:17:58,426-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 15:17:58,426-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 15:18:08,959-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为10.533203125s
+2019-12-01 15:18:09,011-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 15:18:10,675-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 15:18:15,675-INFO-base_page.py-base_page-在好货界面_所有的webview页面获取到所有的context
+2019-12-01 15:18:15,675-ERROR-base_page.py-base_page-获取所有的context失败
+2019-12-01 21:34:17,439-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 21:34:17,458-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 21:34:17,458-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 21:34:22,996-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为5.537109136581421s
+2019-12-01 21:34:23,044-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 21:34:23,866-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 21:34:28,866-INFO-base_page.py-base_page-在好货界面_所有的webview页面获取到所有的context
+2019-12-01 21:34:28,866-ERROR-base_page.py-base_page-获取所有的context失败
+2019-12-01 21:43:48,397-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 21:43:48,398-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 21:43:48,398-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 21:43:58,138-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.740234136581421s
+2019-12-01 21:43:58,217-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 21:44:00,135-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 21:44:05,135-INFO-base_page.py-base_page-在'好货界面_所有的webview'页面获取到所有的context
+2019-12-01 21:44:05,135-ERROR-base_page.py-base_page-获取所有的context失败
+2019-12-01 22:00:19,929-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 22:00:19,930-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 22:00:19,931-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 22:00:29,776-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.845703125s
+2019-12-01 22:00:29,844-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 22:00:31,701-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 22:00:36,701-INFO-base_page.py-base_page-在'好货界面_所有的webview'页面获取到所有的context
+2019-12-01 22:00:41,701-ERROR-base_page.py-base_page-获取所有的contexts失败
+2019-12-01 22:17:08,031-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 22:17:08,031-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 22:17:08,031-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 22:17:17,659-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.626953363418579s
+2019-12-01 22:17:17,705-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 22:17:19,051-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 22:17:24,052-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', '//new UiSelector().resourceId("com.netease.mail:id/tv_title").text("网易员工精选")')'出现在页面
+2019-12-01 22:17:54,116-ERROR-base_page.py-base_page-等待好货界面_网易员工精选元素出现失败
+2019-12-01 22:20:48,214-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 22:20:48,215-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 22:20:48,215-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 22:20:57,536-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.321289300918579s
+2019-12-01 22:20:57,582-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 22:20:58,904-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 22:21:03,905-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title").text("网易员工精选")')'出现在页面
+2019-12-01 22:21:03,906-ERROR-base_page.py-base_page-等待好货界面_网易员工精选元素出现失败
+2019-12-01 22:24:15,701-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 22:24:15,701-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 22:24:15,701-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 22:24:24,930-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.228515625s
+2019-12-01 22:24:24,977-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 22:24:27,888-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 22:24:32,889-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-01 22:24:32,992-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-01 22:24:32,993-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-01 22:24:37,993-ERROR-base_page.py-base_page-获取所有的contexts失败
+2019-12-01 22:30:27,129-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 22:30:27,129-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 22:30:27,130-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 22:30:32,538-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为5.408202886581421s
+2019-12-01 22:30:32,632-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 22:30:34,941-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 22:30:39,941-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-01 22:30:40,038-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-01 22:30:40,038-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-01 22:30:50,313-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-01 22:35:09,692-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 22:35:09,693-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 22:35:09,693-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 22:35:19,723-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为10.029297113418579s
+2019-12-01 22:35:19,769-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 22:35:20,915-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 22:35:25,915-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-01 22:35:26,047-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-01 22:35:26,048-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-01 22:35:36,331-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-01 22:35:36,331-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-01 22:35:41,775-ERROR-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview失败
+2019-12-01 23:05:31,416-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 23:05:31,416-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 23:05:31,416-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 23:05:38,851-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为7.433593511581421s
+2019-12-01 23:05:38,903-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 23:05:40,929-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 23:05:45,929-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-01 23:05:46,045-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-01 23:05:46,046-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-01 23:05:56,319-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-01 23:05:56,319-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-01 23:06:07,134-INFO-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview成功
+2019-12-01 23:06:07,135-INFO-base_page.py-base_page-在好货界面_订阅按钮点击('xpath', "//a[@class='btn J-sub']")元素
+2019-12-01 23:06:07,135-INFO-base_page.py-base_page-查找'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'
+2019-12-01 23:06:07,135-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'可见
+2019-12-01 23:06:07,341-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素出现成功，等待时间为0.2060549259185791s
+2019-12-01 23:06:07,387-INFO-base_page.py-base_page-找到'好货界面_订阅按钮'元素
+2019-12-01 23:06:07,532-INFO-base_page.py-base_page-点击'好货界面_订阅按钮'元素成功
+2019-12-01 23:21:44,410-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 23:21:44,410-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 23:21:44,410-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 23:21:53,977-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.565429449081421s
+2019-12-01 23:21:54,031-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 23:21:56,394-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 23:22:01,394-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-01 23:22:01,396-ERROR-base_page.py-base_page-等待好货界面_网易员工精选元素出现失败
+2019-12-01 23:24:14,221-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 23:24:14,221-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 23:24:14,222-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 23:24:23,307-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.0849609375s
+2019-12-01 23:24:23,357-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 23:24:24,987-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 23:24:29,987-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'可见
+2019-12-01 23:24:30,146-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素出现成功，等待时间为0.158203125s
+2019-12-01 23:24:30,146-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-01 23:24:40,397-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-01 23:24:40,397-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-01 23:24:45,812-ERROR-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview失败
+2019-12-01 23:26:04,528-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 23:26:04,528-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 23:26:04,529-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 23:26:14,604-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为10.07421875s
+2019-12-01 23:26:14,653-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 23:26:16,499-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 23:26:21,500-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'可见
+2019-12-01 23:26:21,706-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素出现成功，等待时间为0.2060544490814209s
+2019-12-01 23:26:21,706-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-01 23:26:31,971-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-01 23:26:36,971-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-01 23:26:42,392-ERROR-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview失败
+2019-12-01 23:27:18,882-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 23:27:18,882-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 23:27:18,883-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 23:27:28,743-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.8603515625s
+2019-12-01 23:27:28,794-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 23:27:31,242-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 23:27:36,242-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'可见
+2019-12-01 23:27:36,243-ERROR-base_page.py-base_page-查找'好货界面_网易员工精选'元素出现失败
+2019-12-01 23:29:18,983-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 23:29:18,983-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 23:29:18,983-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 23:29:28,807-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.823242425918579s
+2019-12-01 23:29:28,854-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 23:29:30,546-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 23:29:35,546-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'可见
+2019-12-01 23:29:35,548-ERROR-base_page.py-base_page-查找'好货界面_网易员工精选'元素出现失败
+2019-12-01 23:31:36,145-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 23:31:36,146-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 23:31:36,146-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 23:31:45,901-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为9.755859375s
+2019-12-01 23:31:45,957-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 23:31:47,258-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 23:31:52,258-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-01 23:31:52,343-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-01 23:31:52,344-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-01 23:32:02,612-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-01 23:32:07,612-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-01 23:32:16,733-INFO-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview成功
+2019-12-01 23:32:16,734-INFO-base_page.py-base_page-在好货界面_订阅按钮点击('xpath', "//a[@class='btn J-sub']")元素
+2019-12-01 23:32:16,734-INFO-base_page.py-base_page-查找'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'
+2019-12-01 23:32:16,734-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'可见
+2019-12-01 23:32:16,942-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素出现成功，等待时间为0.2080078125s
+2019-12-01 23:32:16,976-INFO-base_page.py-base_page-找到'好货界面_订阅按钮'元素
+2019-12-01 23:32:17,152-INFO-base_page.py-base_page-点击'好货界面_订阅按钮'元素成功
+2019-12-01 23:35:04,262-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-01 23:35:04,263-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-01 23:35:04,263-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-01 23:35:14,409-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为10.146484136581421s
+2019-12-01 23:35:14,455-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-01 23:35:16,338-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-01 23:35:21,338-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-01 23:35:21,483-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-01 23:35:21,483-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-01 23:35:31,766-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-01 23:35:36,766-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-01 23:35:45,641-INFO-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview成功
+2019-12-01 23:35:45,641-INFO-base_page.py-base_page-在好货界面_订阅按钮点击('xpath', "//a[@class='btn J-sub']")元素
+2019-12-01 23:35:45,642-INFO-base_page.py-base_page-查找'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'
+2019-12-01 23:35:45,642-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'可见
+2019-12-01 23:35:45,932-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素出现成功，等待时间为0.2900390625s
+2019-12-01 23:35:45,973-INFO-base_page.py-base_page-找到'好货界面_订阅按钮'元素
+2019-12-01 23:35:46,080-INFO-base_page.py-base_page-点击'好货界面_订阅按钮'元素成功
+2019-12-08 21:31:46,344-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 21:31:46,369-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 21:31:46,370-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 21:31:58,801-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为12.430663824081421s
+2019-12-08 21:31:58,860-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-08 21:32:01,101-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-08 21:32:06,101-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-08 21:32:06,102-ERROR-base_page.py-base_page-等待好货界面_网易员工精选元素出现失败
+2019-12-08 21:32:32,008-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 21:32:32,008-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 21:32:32,008-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 21:32:40,012-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为8.002929449081421s
+2019-12-08 21:32:40,070-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-08 21:32:41,341-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-08 21:32:46,341-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-08 21:32:46,464-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-08 21:32:46,464-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-08 21:32:56,761-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-08 21:33:01,761-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-08 21:33:06,916-ERROR-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview失败
+2019-12-08 21:33:22,886-INFO-base_page.py-base_page-在首页底部_邮件按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 21:33:22,887-INFO-base_page.py-base_page-查找'首页底部_邮件按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 21:33:22,887-INFO-base_page.py-base_page-等待'首页底部_邮件按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 21:33:33,800-INFO-base_page.py-base_page-等待'首页底部_邮件按钮'元素出现成功，等待时间为10.9130859375s
+2019-12-08 21:33:33,850-INFO-base_page.py-base_page-找到'首页底部_邮件按钮'元素
+2019-12-08 21:33:34,976-INFO-base_page.py-base_page-点击'首页底部_邮件按钮'元素成功
+2019-12-08 21:33:34,977-INFO-base_page.py-base_page-在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')元素
+2019-12-08 21:33:34,977-INFO-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'
+2019-12-08 21:33:34,977-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'可见
+2019-12-08 21:34:05,107-ERROR-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素出现失败
+2019-12-08 21:34:05,107-ERROR-base_page.py-base_page-点击'发送邮件邮件_上传附件按钮'元素失败
+2019-12-08 21:34:29,318-INFO-base_page.py-base_page-在首页底部_邮件按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 21:34:29,319-INFO-base_page.py-base_page-查找'首页底部_邮件按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 21:34:29,319-INFO-base_page.py-base_page-等待'首页底部_邮件按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 21:34:40,948-INFO-base_page.py-base_page-等待'首页底部_邮件按钮'元素出现成功，等待时间为11.6279296875s
+2019-12-08 21:34:40,999-INFO-base_page.py-base_page-找到'首页底部_邮件按钮'元素
+2019-12-08 21:34:42,897-INFO-base_page.py-base_page-点击'首页底部_邮件按钮'元素成功
+2019-12-08 21:34:42,898-INFO-base_page.py-base_page-在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')元素
+2019-12-08 21:34:42,898-INFO-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'
+2019-12-08 21:34:42,898-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'可见
+2019-12-08 21:35:07,309-ERROR-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素出现失败
+2019-12-08 21:35:07,309-ERROR-base_page.py-base_page-点击'发送邮件邮件_上传附件按钮'元素失败
+2019-12-08 21:58:47,990-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 21:58:47,990-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 21:58:47,991-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 21:58:59,571-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为11.580078125s
+2019-12-08 21:58:59,623-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-08 21:59:01,915-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-08 21:59:06,915-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-08 21:59:06,916-ERROR-base_page.py-base_page-等待好货界面_网易员工精选元素出现失败
+2019-12-08 21:59:30,672-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 21:59:30,673-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 21:59:30,673-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 21:59:42,199-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为11.526367425918579s
+2019-12-08 21:59:42,255-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-08 21:59:43,581-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-08 21:59:48,581-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-08 21:59:48,583-ERROR-base_page.py-base_page-等待好货界面_网易员工精选元素出现失败
+2019-12-08 22:00:43,687-INFO-base_page.py-base_page-在首页底部_邮件按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("邮件")')元素
+2019-12-08 22:00:43,688-INFO-base_page.py-base_page-查找'首页底部_邮件按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("邮件")')'
+2019-12-08 22:00:43,688-INFO-base_page.py-base_page-等待'首页底部_邮件按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("邮件")')'可见
+2019-12-08 22:00:43,710-ERROR-base_page.py-base_page-查找'首页底部_邮件按钮'元素出现失败
+2019-12-08 22:00:43,710-ERROR-base_page.py-base_page-点击'首页底部_邮件按钮'元素失败
+2019-12-08 22:04:40,889-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 22:04:40,890-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 22:04:40,890-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 22:04:52,667-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为11.77734375s
+2019-12-08 22:04:52,718-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-08 22:04:54,978-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-08 22:04:59,978-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-08 22:05:00,091-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-08 22:05:00,092-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-08 22:05:10,377-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-08 22:05:15,377-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-08 22:05:25,254-INFO-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview成功
+2019-12-08 22:05:25,255-INFO-base_page.py-base_page-在好货界面_订阅按钮点击('xpath', "//a[@class='btn J-sub']")元素
+2019-12-08 22:05:25,255-INFO-base_page.py-base_page-查找'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'
+2019-12-08 22:05:25,255-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'可见
+2019-12-08 22:05:25,600-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素出现成功，等待时间为0.3447265625s
+2019-12-08 22:05:25,648-INFO-base_page.py-base_page-找到'好货界面_订阅按钮'元素
+2019-12-08 22:05:25,791-INFO-base_page.py-base_page-点击'好货界面_订阅按钮'元素成功
+2019-12-08 22:05:52,212-INFO-base_page.py-base_page-在首页底部_邮件按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("邮件")')元素
+2019-12-08 22:05:52,212-INFO-base_page.py-base_page-查找'首页底部_邮件按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("邮件")')'
+2019-12-08 22:05:52,212-INFO-base_page.py-base_page-等待'首页底部_邮件按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("邮件")')'可见
+2019-12-08 22:06:03,604-INFO-base_page.py-base_page-等待'首页底部_邮件按钮'元素出现成功，等待时间为11.390625s
+2019-12-08 22:06:03,691-INFO-base_page.py-base_page-找到'首页底部_邮件按钮'元素
+2019-12-08 22:06:06,870-INFO-base_page.py-base_page-点击'首页底部_邮件按钮'元素成功
+2019-12-08 22:06:06,871-INFO-base_page.py-base_page-在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')元素
+2019-12-08 22:06:06,872-INFO-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'
+2019-12-08 22:06:06,872-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'可见
+2019-12-08 22:06:34,960-ERROR-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素出现失败
+2019-12-08 22:06:34,960-ERROR-base_page.py-base_page-点击'发送邮件邮件_上传附件按钮'元素失败
+2019-12-08 22:07:06,283-INFO-base_page.py-base_page-在首页底部_邮件按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("邮件")')元素
+2019-12-08 22:07:06,284-INFO-base_page.py-base_page-查找'首页底部_邮件按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("邮件")')'
+2019-12-08 22:07:06,284-INFO-base_page.py-base_page-等待'首页底部_邮件按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("邮件")')'可见
+2019-12-08 22:07:18,155-INFO-base_page.py-base_page-等待'首页底部_邮件按钮'元素出现成功，等待时间为11.87109375s
+2019-12-08 22:07:18,204-INFO-base_page.py-base_page-找到'首页底部_邮件按钮'元素
+2019-12-08 22:07:21,375-INFO-base_page.py-base_page-点击'首页底部_邮件按钮'元素成功
+2019-12-08 22:07:21,377-INFO-base_page.py-base_page-在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')元素
+2019-12-08 22:07:21,377-INFO-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'
+2019-12-08 22:07:21,377-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'可见
+2019-12-08 22:07:36,213-ERROR-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素出现失败
+2019-12-08 22:07:36,213-ERROR-base_page.py-base_page-点击'发送邮件邮件_上传附件按钮'元素失败
+2019-12-08 22:16:05,419-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-12-08 22:16:05,419-INFO-base_page.py-base_page-查找'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'
+2019-12-08 22:16:05,420-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'可见
+2019-12-08 22:16:16,908-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素出现成功，等待时间为11.48828125s
+2019-12-08 22:16:16,932-INFO-base_page.py-base_page-找到'首页_点击加号按钮'元素
+2019-12-08 22:16:16,984-INFO-base_page.py-base_page-点击'首页_点击加号按钮'元素成功
+2019-12-08 22:16:16,985-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-12-08 22:16:16,985-INFO-base_page.py-base_page-查找'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'
+2019-12-08 22:16:16,985-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'可见
+2019-12-08 22:16:18,328-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素出现成功，等待时间为1.3427734375s
+2019-12-08 22:16:18,345-INFO-base_page.py-base_page-找到'首页_写邮件按钮'元素
+2019-12-08 22:16:18,366-INFO-base_page.py-base_page-点击'首页_写邮件按钮'元素成功
+2019-12-08 22:16:18,368-INFO-base_page.py-base_page-在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')元素
+2019-12-08 22:16:18,368-INFO-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'
+2019-12-08 22:16:18,369-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'可见
+2019-12-08 22:16:20,767-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素出现成功，等待时间为2.3974609375s
+2019-12-08 22:16:20,820-INFO-base_page.py-base_page-找到'发送邮件邮件_上传附件按钮'元素
+2019-12-08 22:16:20,853-INFO-base_page.py-base_page-点击'发送邮件邮件_上传附件按钮'元素成功
+2019-12-08 22:16:20,853-INFO-base_page.py-base_page-在发送邮件界面_上传附件弹窗_选择的第一个文件点击('id', 'com.netease.mail:id/image_gallery_item_image')元素
+2019-12-08 22:16:20,853-INFO-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'
+2019-12-08 22:16:20,853-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'可见
+2019-12-08 22:16:22,648-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素出现成功，等待时间为1.794922113418579s
+2019-12-08 22:16:22,664-INFO-base_page.py-base_page-找到'发送邮件界面_上传附件弹窗_选择的第一个文件'元素
+2019-12-08 22:16:22,684-INFO-base_page.py-base_page-点击'发送邮件界面_上传附件弹窗_选择的第一个文件'元素成功
+2019-12-08 22:16:22,684-INFO-base_page.py-base_page-在发送邮件界面_上传附件弹窗_完成按钮点击('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')元素
+2019-12-08 22:16:22,685-INFO-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_完成按钮'元素值为'('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')'
+2019-12-08 22:16:22,685-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_完成按钮'元素值为'('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')'可见
+2019-12-08 22:16:23,331-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_完成按钮'元素出现成功，等待时间为0.6464841365814209s
+2019-12-08 22:16:23,349-INFO-base_page.py-base_page-找到'发送邮件界面_上传附件弹窗_完成按钮'元素
+2019-12-08 22:16:23,367-INFO-base_page.py-base_page-点击'发送邮件界面_上传附件弹窗_完成按钮'元素成功
+2019-12-08 22:16:23,368-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+2019-12-08 22:16:23,368-INFO-base_page.py-base_page-查找'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'
+2019-12-08 22:16:23,368-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'可见
+2019-12-08 22:16:24,309-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素出现成功，等待时间为0.9404296875s
+2019-12-08 22:16:24,329-INFO-base_page.py-base_page-找到'发送邮件界面_接收人输入框'元素
+2019-12-08 22:16:24,369-INFO-base_page.py-base_page-成功输入文本值
+2019-12-08 22:16:24,370-INFO-base_page.py-base_page-在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email036142
+2019-12-08 22:16:24,370-INFO-base_page.py-base_page-查找'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'
+2019-12-08 22:16:24,370-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'可见
+2019-12-08 22:16:24,992-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素出现成功，等待时间为0.6220700740814209s
+2019-12-08 22:16:25,017-INFO-base_page.py-base_page-找到'发送邮件界面_主题输入框'元素
+2019-12-08 22:16:25,586-INFO-base_page.py-base_page-成功输入文本值
+2019-12-08 22:16:25,586-INFO-base_page.py-base_page-在发送邮件界面_正文输入框的('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素处输入test_send_body036142
+2019-12-08 22:16:25,586-INFO-base_page.py-base_page-查找'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'
+2019-12-08 22:16:25,586-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'可见
+2019-12-08 22:16:26,335-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素出现成功，等待时间为0.748046875s
+2019-12-08 22:16:26,411-INFO-base_page.py-base_page-找到'发送邮件界面_正文输入框'元素
+2019-12-08 22:16:27,040-INFO-base_page.py-base_page-成功输入文本值
+2019-12-08 22:16:27,040-INFO-base_page.py-base_page-在发送邮件界面_发送按钮点击('id', 'com.netease.mail:id/send')元素
+2019-12-08 22:16:27,040-INFO-base_page.py-base_page-查找'发送邮件界面_发送按钮'元素值为'('id', 'com.netease.mail:id/send')'
+2019-12-08 22:16:27,041-INFO-base_page.py-base_page-等待'发送邮件界面_发送按钮'元素值为'('id', 'com.netease.mail:id/send')'可见
+2019-12-08 22:16:27,681-INFO-base_page.py-base_page-等待'发送邮件界面_发送按钮'元素出现成功，等待时间为0.6396486759185791s
+2019-12-08 22:16:27,709-INFO-base_page.py-base_page-找到'发送邮件界面_发送按钮'元素
+2019-12-08 22:16:27,730-INFO-base_page.py-base_page-点击'发送邮件界面_发送按钮'元素成功
+2019-12-08 22:16:27,730-INFO-base_page.py-base_page-等待'首页_More按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_folder')'出现在页面
+2019-12-08 22:16:45,364-INFO-base_page.py-base_page-等待首页_More按钮元素出现成功
+2019-12-08 22:17:19,477-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 22:17:19,477-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 22:17:19,478-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 22:17:30,982-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为11.504882574081421s
+2019-12-08 22:17:31,034-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-08 22:17:32,300-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-08 22:17:37,300-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-08 22:17:37,302-ERROR-base_page.py-base_page-等待好货界面_网易员工精选元素出现失败
+2019-12-08 22:18:00,137-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 22:18:00,138-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 22:18:00,138-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 22:18:11,772-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为11.6337890625s
+2019-12-08 22:18:11,823-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-08 22:18:13,137-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-08 22:18:18,137-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-08 22:18:18,139-ERROR-base_page.py-base_page-等待好货界面_网易员工精选元素出现失败
+2019-12-08 22:21:08,375-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 22:21:08,375-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 22:21:08,375-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 22:21:19,898-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为11.5224609375s
+2019-12-08 22:21:19,950-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-08 22:21:22,475-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-08 22:21:27,475-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-08 22:21:27,573-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-08 22:21:27,573-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-08 22:21:37,842-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-08 22:21:42,842-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-08 22:21:51,903-INFO-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview成功
+2019-12-08 22:21:51,903-INFO-base_page.py-base_page-在好货界面_订阅按钮点击('xpath', "//a[@class='btn J-sub']")元素
+2019-12-08 22:21:51,904-INFO-base_page.py-base_page-查找'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'
+2019-12-08 22:21:51,904-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'可见
+2019-12-08 22:21:52,184-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素出现成功，等待时间为0.2792971134185791s
+2019-12-08 22:21:52,223-INFO-base_page.py-base_page-找到'好货界面_订阅按钮'元素
+2019-12-08 22:21:52,344-INFO-base_page.py-base_page-点击'好货界面_订阅按钮'元素成功
+2019-12-08 22:23:39,123-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 22:23:39,124-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 22:23:39,124-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 22:23:45,438-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为6.3134765625s
+2019-12-08 22:23:45,498-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-08 22:23:47,985-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-08 22:23:52,985-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-08 22:23:53,095-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-08 22:23:53,095-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-08 22:24:03,386-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-08 22:24:08,386-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-08 22:24:17,202-INFO-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview成功
+2019-12-08 22:24:17,202-INFO-base_page.py-base_page-在好货界面_订阅按钮点击('xpath', "//a[@class='btn J-sub']")元素
+2019-12-08 22:24:17,202-INFO-base_page.py-base_page-查找'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'
+2019-12-08 22:24:17,202-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'可见
+2019-12-08 22:24:17,510-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素出现成功，等待时间为0.306640625s
+2019-12-08 22:24:17,558-INFO-base_page.py-base_page-找到'好货界面_订阅按钮'元素
+2019-12-08 22:24:17,707-INFO-base_page.py-base_page-点击'好货界面_订阅按钮'元素成功
+2019-12-08 22:24:43,855-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-12-08 22:24:43,855-INFO-base_page.py-base_page-查找'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'
+2019-12-08 22:24:43,856-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'可见
+2019-12-08 22:24:55,247-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素出现成功，等待时间为11.3916015625s
+2019-12-08 22:24:55,272-INFO-base_page.py-base_page-找到'首页_点击加号按钮'元素
+2019-12-08 22:24:55,318-INFO-base_page.py-base_page-点击'首页_点击加号按钮'元素成功
+2019-12-08 22:24:55,318-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-12-08 22:24:55,318-INFO-base_page.py-base_page-查找'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'
+2019-12-08 22:24:55,318-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'可见
+2019-12-08 22:24:56,661-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素出现成功，等待时间为1.342773675918579s
+2019-12-08 22:24:56,679-INFO-base_page.py-base_page-找到'首页_写邮件按钮'元素
+2019-12-08 22:24:56,697-INFO-base_page.py-base_page-点击'首页_写邮件按钮'元素成功
+2019-12-08 22:24:56,698-INFO-base_page.py-base_page-在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')元素
+2019-12-08 22:24:56,699-INFO-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'
+2019-12-08 22:24:56,699-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'可见
+2019-12-08 22:24:58,938-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素出现成功，等待时间为2.238281011581421s
+2019-12-08 22:24:58,980-INFO-base_page.py-base_page-找到'发送邮件邮件_上传附件按钮'元素
+2019-12-08 22:24:59,031-INFO-base_page.py-base_page-点击'发送邮件邮件_上传附件按钮'元素成功
+2019-12-08 22:24:59,032-INFO-base_page.py-base_page-在发送邮件界面_上传附件弹窗_选择的第一个文件点击('id', 'com.netease.mail:id/image_gallery_item_image')元素
+2019-12-08 22:24:59,032-INFO-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'
+2019-12-08 22:24:59,032-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'可见
+2019-12-08 22:25:00,825-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素出现成功，等待时间为1.79296875s
+2019-12-08 22:25:00,844-INFO-base_page.py-base_page-找到'发送邮件界面_上传附件弹窗_选择的第一个文件'元素
+2019-12-08 22:25:00,868-INFO-base_page.py-base_page-点击'发送邮件界面_上传附件弹窗_选择的第一个文件'元素成功
+2019-12-08 22:25:00,869-INFO-base_page.py-base_page-在发送邮件界面_上传附件弹窗_完成按钮点击('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')元素
+2019-12-08 22:25:00,869-INFO-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_完成按钮'元素值为'('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')'
+2019-12-08 22:25:00,869-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_完成按钮'元素值为'('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')'可见
+2019-12-08 22:25:01,508-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_完成按钮'元素出现成功，等待时间为0.638671875s
+2019-12-08 22:25:01,526-INFO-base_page.py-base_page-找到'发送邮件界面_上传附件弹窗_完成按钮'元素
+2019-12-08 22:25:01,546-INFO-base_page.py-base_page-点击'发送邮件界面_上传附件弹窗_完成按钮'元素成功
+2019-12-08 22:25:01,546-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+2019-12-08 22:25:01,546-INFO-base_page.py-base_page-查找'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'
+2019-12-08 22:25:01,546-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'可见
+2019-12-08 22:25:02,596-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素出现成功，等待时间为1.048828125s
+2019-12-08 22:25:02,620-INFO-base_page.py-base_page-找到'发送邮件界面_接收人输入框'元素
+2019-12-08 22:25:02,711-INFO-base_page.py-base_page-成功输入文本值
+2019-12-08 22:25:02,711-INFO-base_page.py-base_page-在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email265873
+2019-12-08 22:25:02,711-INFO-base_page.py-base_page-查找'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'
+2019-12-08 22:25:02,712-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'可见
+2019-12-08 22:25:03,492-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素出现成功，等待时间为0.7802734375s
+2019-12-08 22:25:03,518-INFO-base_page.py-base_page-找到'发送邮件界面_主题输入框'元素
+2019-12-08 22:25:04,054-INFO-base_page.py-base_page-成功输入文本值
+2019-12-08 22:25:04,055-INFO-base_page.py-base_page-在发送邮件界面_正文输入框的('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素处输入test_send_body265873
+2019-12-08 22:25:04,055-INFO-base_page.py-base_page-查找'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'
+2019-12-08 22:25:04,055-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'可见
+2019-12-08 22:25:04,721-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素出现成功，等待时间为0.6660153865814209s
+2019-12-08 22:25:04,802-INFO-base_page.py-base_page-找到'发送邮件界面_正文输入框'元素
+2019-12-08 22:25:05,436-INFO-base_page.py-base_page-成功输入文本值
+2019-12-08 22:25:05,436-INFO-base_page.py-base_page-在发送邮件界面_发送按钮点击('id', 'com.netease.mail:id/send')元素
+2019-12-08 22:25:05,437-INFO-base_page.py-base_page-查找'发送邮件界面_发送按钮'元素值为'('id', 'com.netease.mail:id/send')'
+2019-12-08 22:25:05,437-INFO-base_page.py-base_page-等待'发送邮件界面_发送按钮'元素值为'('id', 'com.netease.mail:id/send')'可见
+2019-12-08 22:25:06,070-INFO-base_page.py-base_page-等待'发送邮件界面_发送按钮'元素出现成功，等待时间为0.6337893009185791s
+2019-12-08 22:25:06,094-INFO-base_page.py-base_page-找到'发送邮件界面_发送按钮'元素
+2019-12-08 22:25:06,113-INFO-base_page.py-base_page-点击'发送邮件界面_发送按钮'元素成功
+2019-12-08 22:25:06,113-INFO-base_page.py-base_page-等待'首页_More按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_folder')'出现在页面
+2019-12-08 22:25:11,528-INFO-base_page.py-base_page-等待首页_More按钮元素出现成功
+2019-12-08 22:34:46,852-INFO-base_page.py-base_page-在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+2019-12-08 22:34:46,853-INFO-base_page.py-base_page-查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+2019-12-08 22:34:46,853-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+2019-12-08 22:34:58,142-INFO-base_page.py-base_page-等待'首页底部_好货按钮'元素出现成功，等待时间为11.289062738418579s
+2019-12-08 22:34:58,192-INFO-base_page.py-base_page-找到'首页底部_好货按钮'元素
+2019-12-08 22:34:59,494-INFO-base_page.py-base_page-点击'首页底部_好货按钮'元素成功
+2019-12-08 22:35:04,494-INFO-base_page.py-base_page-等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+2019-12-08 22:35:04,591-INFO-base_page.py-base_page-等待好货界面_网易员工精选元素出现成功
+2019-12-08 22:35:04,591-INFO-base_page.py-base_page-在'好货界面_网易员工精选'页面获取到所有的context
+2019-12-08 22:35:14,861-INFO-base_page.py-base_page-获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+2019-12-08 22:35:19,861-INFO-base_page.py-base_page-在好货界面切换到WEBVIEW_com.netease.mail页面
+2019-12-08 22:35:28,948-INFO-base_page.py-base_page-切换到'WEBVIEW_com.netease.mail' webview成功
+2019-12-08 22:35:28,948-INFO-base_page.py-base_page-在好货界面_订阅按钮点击('xpath', "//a[@class='btn J-sub']")元素
+2019-12-08 22:35:28,949-INFO-base_page.py-base_page-查找'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'
+2019-12-08 22:35:28,949-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'可见
+2019-12-08 22:35:29,250-INFO-base_page.py-base_page-等待'好货界面_订阅按钮'元素出现成功，等待时间为0.30078125s
+2019-12-08 22:35:29,292-INFO-base_page.py-base_page-找到'好货界面_订阅按钮'元素
+2019-12-08 22:35:29,408-INFO-base_page.py-base_page-点击'好货界面_订阅按钮'元素成功
+2019-12-08 22:35:55,676-INFO-base_page.py-base_page-在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+2019-12-08 22:35:55,676-INFO-base_page.py-base_page-查找'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'
+2019-12-08 22:35:55,677-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'可见
+2019-12-08 22:36:04,858-INFO-base_page.py-base_page-等待'首页_点击加号按钮'元素出现成功，等待时间为9.181640625s
+2019-12-08 22:36:04,881-INFO-base_page.py-base_page-找到'首页_点击加号按钮'元素
+2019-12-08 22:36:04,935-INFO-base_page.py-base_page-点击'首页_点击加号按钮'元素成功
+2019-12-08 22:36:04,936-INFO-base_page.py-base_page-在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+2019-12-08 22:36:04,936-INFO-base_page.py-base_page-查找'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'
+2019-12-08 22:36:04,936-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'可见
+2019-12-08 22:36:06,286-INFO-base_page.py-base_page-等待'首页_写邮件按钮'元素出现成功，等待时间为1.349609375s
+2019-12-08 22:36:06,307-INFO-base_page.py-base_page-找到'首页_写邮件按钮'元素
+2019-12-08 22:36:06,332-INFO-base_page.py-base_page-点击'首页_写邮件按钮'元素成功
+2019-12-08 22:36:06,333-INFO-base_page.py-base_page-在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')元素
+2019-12-08 22:36:06,334-INFO-base_page.py-base_page-查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'
+2019-12-08 22:36:06,334-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'可见
+2019-12-08 22:36:08,321-INFO-base_page.py-base_page-等待'发送邮件邮件_上传附件按钮'元素出现成功，等待时间为1.9873046875s
+2019-12-08 22:36:08,447-INFO-base_page.py-base_page-找到'发送邮件邮件_上传附件按钮'元素
+2019-12-08 22:36:08,485-INFO-base_page.py-base_page-点击'发送邮件邮件_上传附件按钮'元素成功
+2019-12-08 22:36:08,485-INFO-base_page.py-base_page-在发送邮件界面_上传附件弹窗_选择的第一个文件点击('id', 'com.netease.mail:id/image_gallery_item_image')元素
+2019-12-08 22:36:08,486-INFO-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'
+2019-12-08 22:36:08,486-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'可见
+2019-12-08 22:36:10,240-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素出现成功，等待时间为1.753906011581421s
+2019-12-08 22:36:10,260-INFO-base_page.py-base_page-找到'发送邮件界面_上传附件弹窗_选择的第一个文件'元素
+2019-12-08 22:36:10,282-INFO-base_page.py-base_page-点击'发送邮件界面_上传附件弹窗_选择的第一个文件'元素成功
+2019-12-08 22:36:10,282-INFO-base_page.py-base_page-在发送邮件界面_上传附件弹窗_完成按钮点击('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')元素
+2019-12-08 22:36:10,283-INFO-base_page.py-base_page-查找'发送邮件界面_上传附件弹窗_完成按钮'元素值为'('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')'
+2019-12-08 22:36:10,283-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_完成按钮'元素值为'('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')'可见
+2019-12-08 22:36:10,925-INFO-base_page.py-base_page-等待'发送邮件界面_上传附件弹窗_完成按钮'元素出现成功，等待时间为0.6416013240814209s
+2019-12-08 22:36:10,942-INFO-base_page.py-base_page-找到'发送邮件界面_上传附件弹窗_完成按钮'元素
+2019-12-08 22:36:10,964-INFO-base_page.py-base_page-点击'发送邮件界面_上传附件弹窗_完成按钮'元素成功
+2019-12-08 22:36:10,964-INFO-base_page.py-base_page-在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+2019-12-08 22:36:10,964-INFO-base_page.py-base_page-查找'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'
+2019-12-08 22:36:10,965-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'可见
+2019-12-08 22:36:11,925-INFO-base_page.py-base_page-等待'发送邮件界面_接收人输入框'元素出现成功，等待时间为0.9599606990814209s
+2019-12-08 22:36:11,949-INFO-base_page.py-base_page-找到'发送邮件界面_接收人输入框'元素
+2019-12-08 22:36:11,998-INFO-base_page.py-base_page-成功输入文本值
+2019-12-08 22:36:11,998-INFO-base_page.py-base_page-在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email528379
+2019-12-08 22:36:11,999-INFO-base_page.py-base_page-查找'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'
+2019-12-08 22:36:11,999-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'可见
+2019-12-08 22:36:12,632-INFO-base_page.py-base_page-等待'发送邮件界面_主题输入框'元素出现成功，等待时间为0.6328127384185791s
+2019-12-08 22:36:12,666-INFO-base_page.py-base_page-找到'发送邮件界面_主题输入框'元素
+2019-12-08 22:36:13,210-INFO-base_page.py-base_page-成功输入文本值
+2019-12-08 22:36:13,210-INFO-base_page.py-base_page-在发送邮件界面_正文输入框的('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素处输入test_send_body528379
+2019-12-08 22:36:13,211-INFO-base_page.py-base_page-查找'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'
+2019-12-08 22:36:13,211-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'可见
+2019-12-08 22:36:13,876-INFO-base_page.py-base_page-等待'发送邮件界面_正文输入框'元素出现成功，等待时间为0.6650390625s
+2019-12-08 22:36:13,966-INFO-base_page.py-base_page-找到'发送邮件界面_正文输入框'元素
+2019-12-08 22:36:14,606-INFO-base_page.py-base_page-成功输入文本值
+2019-12-08 22:36:14,606-INFO-base_page.py-base_page-在发送邮件界面_发送按钮点击('id', 'com.netease.mail:id/send')元素
+2019-12-08 22:36:14,606-INFO-base_page.py-base_page-查找'发送邮件界面_发送按钮'元素值为'('id', 'com.netease.mail:id/send')'
+2019-12-08 22:36:14,606-INFO-base_page.py-base_page-等待'发送邮件界面_发送按钮'元素值为'('id', 'com.netease.mail:id/send')'可见
+2019-12-08 22:36:15,240-INFO-base_page.py-base_page-等待'发送邮件界面_发送按钮'元素出现成功，等待时间为0.6337888240814209s
+2019-12-08 22:36:15,263-INFO-base_page.py-base_page-找到'发送邮件界面_发送按钮'元素
+2019-12-08 22:36:15,283-INFO-base_page.py-base_page-点击'发送邮件界面_发送按钮'元素成功
+2019-12-08 22:36:15,284-INFO-base_page.py-base_page-等待'首页_More按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_folder')'出现在页面
+2019-12-08 22:36:19,984-INFO-base_page.py-base_page-等待首页_More按钮元素出现成功

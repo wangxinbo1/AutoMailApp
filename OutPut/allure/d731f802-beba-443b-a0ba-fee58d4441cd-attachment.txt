@@ -1,0 +1,19 @@
+INFO     laowang:base_page.py:96 在首页底部_好货按钮点击('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')元素
+INFO     laowang:base_page.py:41 查找'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'
+INFO     laowang:base_page.py:19 等待'首页底部_好货按钮'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tab_item_text").text("好货")')'可见
+INFO     laowang:base_page.py:28 等待'首页底部_好货按钮'元素出现成功，等待时间为11.289062738418579s
+INFO     laowang:base_page.py:45 找到'首页底部_好货按钮'元素
+INFO     laowang:base_page.py:99 点击'首页底部_好货按钮'元素成功
+INFO     laowang:base_page.py:32 等待'好货界面_网易员工精选'元素值为'('-android uiautomator', 'new UiSelector().resourceId("com.netease.mail:id/tv_title")')'出现在页面
+INFO     laowang:base_page.py:35 等待好货界面_网易员工精选元素出现成功
+INFO     laowang:base_page.py:73 在'好货界面_网易员工精选'页面获取到所有的context
+WARNING  urllib3.connectionpool:connectionpool.py:665 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionAbortedError(10053, '您的主机中的软件中止了一个已建立的连接。', None, 10053, None))': /wd/hub/session/359465f8-4354-4dde-a33d-4c695001307a/contexts
+INFO     laowang:base_page.py:78 获取所有的contexts '['NATIVE_APP', 'WEBVIEW_com.netease.mail']'成功
+INFO     laowang:base_page.py:85 在好货界面切换到WEBVIEW_com.netease.mail页面
+INFO     laowang:base_page.py:89 切换到'WEBVIEW_com.netease.mail' webview成功
+INFO     laowang:base_page.py:96 在好货界面_订阅按钮点击('xpath', "//a[@class='btn J-sub']")元素
+INFO     laowang:base_page.py:41 查找'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'
+INFO     laowang:base_page.py:19 等待'好货界面_订阅按钮'元素值为'('xpath', "//a[@class='btn J-sub']")'可见
+INFO     laowang:base_page.py:28 等待'好货界面_订阅按钮'元素出现成功，等待时间为0.30078125s
+INFO     laowang:base_page.py:45 找到'好货界面_订阅按钮'元素
+INFO     laowang:base_page.py:99 点击'好货界面_订阅按钮'元素成功

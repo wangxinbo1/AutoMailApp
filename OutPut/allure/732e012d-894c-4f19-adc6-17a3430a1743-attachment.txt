@@ -1,0 +1,56 @@
+INFO     laowang:base_page.py:96 在首页_点击加号按钮点击('id', 'com.netease.mail:id/iv_mail_list_plus')元素
+INFO     laowang:base_page.py:41 查找'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'
+INFO     laowang:base_page.py:19 等待'首页_点击加号按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_plus')'可见
+INFO     laowang:base_page.py:28 等待'首页_点击加号按钮'元素出现成功，等待时间为9.181640625s
+INFO     laowang:base_page.py:45 找到'首页_点击加号按钮'元素
+INFO     laowang:base_page.py:99 点击'首页_点击加号按钮'元素成功
+INFO     laowang:base_page.py:96 在首页_写邮件按钮点击('id', 'com.netease.mail:id/tv_write_mail')元素
+INFO     laowang:base_page.py:41 查找'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'
+INFO     laowang:base_page.py:19 等待'首页_写邮件按钮'元素值为'('id', 'com.netease.mail:id/tv_write_mail')'可见
+INFO     laowang:base_page.py:28 等待'首页_写邮件按钮'元素出现成功，等待时间为1.349609375s
+INFO     laowang:base_page.py:45 找到'首页_写邮件按钮'元素
+INFO     laowang:base_page.py:99 点击'首页_写邮件按钮'元素成功
+INFO     laowang:base_page.py:96 在发送邮件邮件_上传附件按钮点击('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')元素
+INFO     laowang:base_page.py:41 查找'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'
+INFO     laowang:base_page.py:19 等待'发送邮件邮件_上传附件按钮'元素值为'('id', 'com.netease.mail:id/mailcompose_btn_add_attachment')'可见
+INFO     laowang:base_page.py:28 等待'发送邮件邮件_上传附件按钮'元素出现成功，等待时间为1.9873046875s
+INFO     laowang:base_page.py:45 找到'发送邮件邮件_上传附件按钮'元素
+INFO     laowang:base_page.py:99 点击'发送邮件邮件_上传附件按钮'元素成功
+INFO     laowang:base_page.py:96 在发送邮件界面_上传附件弹窗_选择的第一个文件点击('id', 'com.netease.mail:id/image_gallery_item_image')元素
+INFO     laowang:base_page.py:41 查找'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'
+INFO     laowang:base_page.py:19 等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素值为'('id', 'com.netease.mail:id/image_gallery_item_image')'可见
+INFO     laowang:base_page.py:28 等待'发送邮件界面_上传附件弹窗_选择的第一个文件'元素出现成功，等待时间为1.753906011581421s
+INFO     laowang:base_page.py:45 找到'发送邮件界面_上传附件弹窗_选择的第一个文件'元素
+INFO     laowang:base_page.py:99 点击'发送邮件界面_上传附件弹窗_选择的第一个文件'元素成功
+INFO     laowang:base_page.py:96 在发送邮件界面_上传附件弹窗_完成按钮点击('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')元素
+INFO     laowang:base_page.py:41 查找'发送邮件界面_上传附件弹窗_完成按钮'元素值为'('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')'
+INFO     laowang:base_page.py:19 等待'发送邮件界面_上传附件弹窗_完成按钮'元素值为'('id', 'com.netease.mail:id/attach_choose_large_vertical_menu_new_btn_done')'可见
+INFO     laowang:base_page.py:28 等待'发送邮件界面_上传附件弹窗_完成按钮'元素出现成功，等待时间为0.6416013240814209s
+INFO     laowang:base_page.py:45 找到'发送邮件界面_上传附件弹窗_完成按钮'元素
+INFO     laowang:base_page.py:99 点击'发送邮件界面_上传附件弹窗_完成按钮'元素成功
+INFO     laowang:base_page.py:52 在发送邮件界面_接收人输入框的('id', 'com.netease.mail:id/mailcompose_address_input')元素处输入2421327542@qq.com
+INFO     laowang:base_page.py:41 查找'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'
+INFO     laowang:base_page.py:19 等待'发送邮件界面_接收人输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_address_input')'可见
+INFO     laowang:base_page.py:28 等待'发送邮件界面_接收人输入框'元素出现成功，等待时间为0.9599606990814209s
+INFO     laowang:base_page.py:45 找到'发送邮件界面_接收人输入框'元素
+INFO     laowang:base_page.py:55 成功输入文本值
+INFO     laowang:base_page.py:52 在发送邮件界面_主题输入框的('id', 'com.netease.mail:id/mailcompose_subject_textedit')元素处输入test_send_email528379
+INFO     laowang:base_page.py:41 查找'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'
+INFO     laowang:base_page.py:19 等待'发送邮件界面_主题输入框'元素值为'('id', 'com.netease.mail:id/mailcompose_subject_textedit')'可见
+INFO     laowang:base_page.py:28 等待'发送邮件界面_主题输入框'元素出现成功，等待时间为0.6328127384185791s
+INFO     laowang:base_page.py:45 找到'发送邮件界面_主题输入框'元素
+INFO     laowang:base_page.py:55 成功输入文本值
+INFO     laowang:base_page.py:52 在发送邮件界面_正文输入框的('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')元素处输入test_send_body528379
+INFO     laowang:base_page.py:41 查找'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'
+INFO     laowang:base_page.py:19 等待'发送邮件界面_正文输入框'元素值为'('xpath', '//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText')'可见
+INFO     laowang:base_page.py:28 等待'发送邮件界面_正文输入框'元素出现成功，等待时间为0.6650390625s
+INFO     laowang:base_page.py:45 找到'发送邮件界面_正文输入框'元素
+INFO     laowang:base_page.py:55 成功输入文本值
+INFO     laowang:base_page.py:96 在发送邮件界面_发送按钮点击('id', 'com.netease.mail:id/send')元素
+INFO     laowang:base_page.py:41 查找'发送邮件界面_发送按钮'元素值为'('id', 'com.netease.mail:id/send')'
+INFO     laowang:base_page.py:19 等待'发送邮件界面_发送按钮'元素值为'('id', 'com.netease.mail:id/send')'可见
+INFO     laowang:base_page.py:28 等待'发送邮件界面_发送按钮'元素出现成功，等待时间为0.6337888240814209s
+INFO     laowang:base_page.py:45 找到'发送邮件界面_发送按钮'元素
+INFO     laowang:base_page.py:99 点击'发送邮件界面_发送按钮'元素成功
+INFO     laowang:base_page.py:32 等待'首页_More按钮'元素值为'('id', 'com.netease.mail:id/iv_mail_list_folder')'出现在页面
+INFO     laowang:base_page.py:35 等待首页_More按钮元素出现成功

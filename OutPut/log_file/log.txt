@@ -1,0 +1,2 @@
+. TestCases/test_haohuo.py::TestEnterHaoHuo::test_enter_haohuo
+. TestCases/test_send_mail.py::TestSendMail::test_send_mail

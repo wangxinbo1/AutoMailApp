@@ -1,0 +1,7 @@
+platformName: Android
+platformVersion: 5.1
+deviceName: Emulator
+automationName: UiAutomator2
+appPackage: com.netease.mail
+appActivity: com.netease.mobimail.activity.LaunchActivity
+noReset: True
